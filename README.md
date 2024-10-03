@@ -1,9 +1,6 @@
 # Book-Reccomendation-System-using-Machine-Learning
 Unsupervised Learning
 
-
-# Book Recommendation System Using Machine Learning
-
 ## Project Overview
 This project develops a book recommendation system utilizing unsupervised learning techniques. The system aims to provide personalized book recommendations based on user preferences, reading patterns, and historical data. 
 
